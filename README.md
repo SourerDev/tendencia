@@ -61,7 +61,7 @@ You can check out the [create-t3-app GitHub repository](https://github.com/t3-os
 
 ## Wiki 📖
 
-You can find much more on how to use this project in our [Wiki](https://github.com)
+You can find much more on how to use this project in our [Wiki](https://github.com/SourerDev/tendencia/wiki)
 
 ## Versioning 📌
 
