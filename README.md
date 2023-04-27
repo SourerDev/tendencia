@@ -1,6 +1,10 @@
 # Tendencia
 
-project **description**
+One web development project that might be appropriate for a senior developer is the creation of a complete e-commerce platform. This project could include the creation of a custom online store from scratch, including the integration of a secure payment system, inventory and order management, and the creation of an intuitive and user-friendly user interface.
+
+In addition, the project could include the integration of additional features, such as the creation of an administration panel for store owners to manage their inventory, add new products, view sales statistics, and more. Integration of marketing tools could also be considered, such as creating a blog section or integrating email marketing tools.
+
+A project like this would require expertise in multiple areas, including front-end and back-end programming, information security and database management. It would also be important to ensure that the platform complies with the necessary security and privacy standards for handling customer information.
 
 ## Starting 🚀
 
@@ -14,11 +18,21 @@ example -e
 
 ### Installation 🔧
 
-steps
+**You must first** make a _fork_ of the repository and then _clone_
 
-```bash
-example -e
+Make sure to create the .env file in the root directory, with the following environment variables:
+
+```js
+DATABASE_URL = ""
+
+NEXTAUTH_SECRET=""
+NEXTAUTH_URL=""
+
+DISCORD_CLIENT_ID=""
+DISCORD_CLIENT_SECRET=""
 ```
+
+You can also look at the ` .env.example ` file
 
 ## Running the tests ⚙️
 
